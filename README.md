@@ -7,3 +7,4 @@ This is the Mini project of Stock prediction
   
 --> Dataset
 * Download The Dataset From Kaggle Website.
+ "C:\Users\aksha\OneDrive\Data sets\AMZN.csv"
